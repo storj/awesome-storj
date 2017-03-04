@@ -2,32 +2,28 @@
 
 > A curated list of projects, tools, and resources for the Storj platform. 
 
-[Official Storj Documentation](https://docs.storj.io/docs)
-
-[storjshare-Daemon](https://github.com/storj/storjshare-daemon)
-
-[storj-cli](https://github.com/Storj/core-cli) - command line utility for aces
-
-[storj.js](https://github.com/Storj/storj.js) - isomorphic Storj library
-
+- [Official Storj Documentation](https://docs.storj.io/docs)
+- [storjshare-Daemon](https://github.com/storj/storjshare-daemon)
+- [storj-cli](https://github.com/Storj/core-cli) - command line utility for aces
+- [storj.js](https://github.com/Storj/storj.js) - isomorphic Storj library  
+ 
 
 # Tutorials / Examples 
-[https://github.com/Storj/storj-node-heroku-example](Storj/Node Heroku Example)
+- [https://github.com/Storj/storj-node-heroku-example](Storj/Node Heroku Example)
 
-# Tools 
-[https://github.com/kadtools](kadtools)
-
-[Official Heroku addon](https://elements.heroku.com/addons/storj)
+# Tools
+- [https://github.com/kadtools](kadtools)
+- [Official Heroku addon](https://elements.heroku.com/addons/storj)
 
 
 # Libraries
-[Kad](https://github.com/kadtools/kad)
+- [Kad](https://github.com/kadtools/kad)
 
 # Community
-[community.storj.io](The Storj Rocket.Chat)
+- [community.storj.io](The Storj Rocket.Chat)
 
 # Apps & Projects Using the Storj Platform
-[storj.pics](storj.pics)
+- [storj.pics](storj.pics)
 
 # Whitepapers and theory 
-https://storj.io/storj.pdf
+- https://storj.io/storj.pdf
