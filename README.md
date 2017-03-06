@@ -2,9 +2,6 @@
 
 > A curated list of projects, tools, and resources for the Storj platform. 
 
-- [Storj Documentation](https://docs.storj.io/docs) - Official Storj Documentation.
-- [Storj on Github](https://github.com/storj) - All Storj repositories in one place.
-
 # Apps & Projects
 - [storj.pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28) [[Github]](https://github.com/nginnever/storj.pics)
 - [P2P Storage Papers](http://hub.prestwi.ch/) - All files served with ❤️ from [storj.js](https://github.com/Storj/storj.js)
@@ -30,6 +27,7 @@
 - [Storj Whitepaper v1](https://storj.io/storj2014.pdf) - Published December 15, 2014. 
 
 # Libraries & Important Repos
+- [Storj on Github](https://github.com/storj) - All Storj repositories in one place.
 - [SIPS](https://github.com/Storj/sips) - Storj Improvement Proposals.
 - [KFS](https://github.com/Storj/kfs) - Kademlia inspired local file store based on LevelDB.
 - [Storj Core](https://github.com/Storj/core) - Implementation of the Storj protocol for Node.
