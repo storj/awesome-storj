@@ -31,7 +31,7 @@
 - [Kad](https://github.com/kadtools/kad)
 
 # Community
-- [Community Chat](https://storj.io/community.html) - Open community chat on Rocket.chat
+- [Community Chat](https://storj.io/community.html) - Open community chat. 
 - [Community Page](https://community.storj.io/) - Links to newsletter, chat, social media, and events.  
 
 
@@ -41,7 +41,7 @@
 - [Submit Code](https://storj.io/developers.html) - Submit pull requests on our public repository on GitHub.
 
 # Apps & Projects Using the Storj Platform
-- [storj.pics](storj.pics)
+- [Storj.pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28)
 - [P2P Storage Papers](http://hub.prestwi.ch/) - All files served with ❤️ from [storj.js](https://github.com/Storj/storj.js)
 
 # Support
