@@ -12,8 +12,12 @@
 - [Storj Share GUI](https://github.com/Storj/storjshare-gui) - Earn money by sharing your extra hard drive space on the Storj network.
 - [Storj Share Daemon](https://github.com/storj/storjshare-daemon) - :imp: daemon + cli for farming data on the storj network. 
 - [Storj.js](https://github.com/Storj/storj.js) - Browser library for interacting with Storj.  
+
+# Apps & Projects Using the Storj Platform
+- [Storj.Pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28)
+- [P2P Storage Papers](http://hub.prestwi.ch/) - All files served with ❤️ from [storj.js](https://github.com/Storj/storj.js)
  
-# Whitepaper
+# Whitepapers
 - [Storj Whitepaper v2](https://storj.io/storj.pdf) - Published December 15, 2016.
 - [Storj Whitepaper v1](https://storj.io/storj2014.pdf) - Published December 15, 2014. 
 
@@ -31,18 +35,14 @@
 - [Kad](https://github.com/kadtools/kad)
 
 # Community
-- [Community Chat](https://storj.io/community.html) - Open community chat. 
+- [Community Chat](https://storj.io/community.html) - Open community chat. Our most active discussion area. 
 - [Community Page](https://community.storj.io/) - Links to newsletter, chat, social media, and events.  
-
 
 # Contribute to Storj
 - [Give Feedback](https://wantoo.io/storj-product-feedback/) - Suggest new product ideas or upvoting existing ones.
 - [Write Guides](https://storj.io/get-paid-to-write.html) - Get paid to write guides and tutorials about our platform.
 - [Submit Code](https://storj.io/developers.html) - Submit pull requests on our public repository on GitHub.
 
-# Apps & Projects Using the Storj Platform
-- [Storj.pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28)
-- [P2P Storage Papers](http://hub.prestwi.ch/) - All files served with ❤️ from [storj.js](https://github.com/Storj/storj.js)
-
 # Support
-- [Storj Support](https://docs.storj.io/discuss) - If you any troubles or questions, please contact Storj support.
+- [Chat Support](https://community.storj.io/) - Recommend using our community chat for realtime support in many languages.
+- [Issue Support](https://docs.storj.io/discuss) - If you any troubles or questions, please contact Storj support.
