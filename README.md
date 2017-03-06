@@ -9,10 +9,15 @@
 - [Storj Share GUI](https://github.com/Storj/storjshare-gui) - Earn money by sharing your extra hard drive space on the Storj network.
 - [Storj Share Daemon](https://github.com/storj/storjshare-daemon) - :imp: daemon + cli for farming data on the storj network. 
 
-
 # Apps & Projects Using the Storj Platform
 - [storj.pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28)
 - [P2P Storage Papers](http://hub.prestwi.ch/) - All files served with ❤️ from [storj.js](https://github.com/Storj/storj.js)
+
+# Tutorials / Examples 
+- [Quickstart](https://docs.storj.io/) - 
+- [Tutorials](https://storj.github.io/core/) - Step-by-step tutorial on how to get started using Storj.
+- [Storj/Node Heroku Example](https://github.com/Storj/storj-node-heroku-example)
+- [FAQ](https://storj.io/faq.html) - Frequently Asked Questions
 
 # Tools
 - [Storj CLI (C)](https://github.com/Storj/libstorj) - Newest and recommended CLI tool for Storj.  
@@ -22,12 +27,6 @@
 # Whitepapers
 - [Storj Whitepaper v2](https://storj.io/storj.pdf) - Published December 15, 2016.
 - [Storj Whitepaper v1](https://storj.io/storj2014.pdf) - Published December 15, 2014. 
-
-# Tutorials / Examples 
-- [Quickstart](https://docs.storj.io/) - 
-- [Tutorials](https://storj.github.io/core/) - Step-by-step tutorial on how to get started using Storj.
-- [Storj/Node Heroku Example](https://github.com/Storj/storj-node-heroku-example)
-- [FAQ](https://storj.io/faq.html) - Frequently Asked Questions
 
 # Libraries
 - [Storj Core](https://github.com/Storj/core) - Implementation of the Storj protocol for Node.js
