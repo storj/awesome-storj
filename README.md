@@ -4,7 +4,6 @@
 
 - [Storj Documentation](https://docs.storj.io/docs) - Official Storj Documentation
 - [Storj on Github](https://github.com/storj) - All Storj repositories in one place
-
 - [Storj Bridge](https://github.com/Storj/bridge) - Access the Storj network via simple REST API.
 - [Storj Bridge GUI](https://github.com/Storj/bridge-gui) - Web application for managing your Storj Bridge account.
 - [Storj Share GUI](https://github.com/Storj/storjshare-gui) - Earn money by sharing your extra hard drive space on the Storj network.
