@@ -10,7 +10,7 @@
 - [Quickstart](https://docs.storj.io/) - Steps thought creating an acccount, and using CLI tools. 
 - [Tutorials](https://storj.github.io/core/) - Full documentation for Storj Core, with many example scripts. 
 - [Storj Node Heroku Example in Node.js](https://github.com/Storj/storj-node-heroku-example) - Authenticate, create key pairs, create buckets, and upload and download a file.
-- [FAQ](https://storj.io/faq.html) - Frequently Asked Questions
+- [FAQ](https://storj.io/faq.html) - Frequently Asked Questions.
 
 # Tools
 - [Storj CLI (C)](https://github.com/Storj/libstorj) - Newest and recommended CLI tool for Storj.  
