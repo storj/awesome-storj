@@ -2,7 +2,7 @@
 
 > A curated list of projects, tools, and resources for the Storj platform. 
 
-- [Official Storj Documentation](https://docs.storj.io/docs)
+- [Storj Documentation](https://docs.storj.io/docs) - Official Storj Documentation
 - [Storj on Github](https://github.com/storj) - All Storj repositories in one place
 - [Storj Core](https://github.com/Storj/core) - Implementation of the Storj protocol for Node.js
 - [Storj Core CLI](https://github.com/Storj/core-cli) - CLI for Storj Core
@@ -13,13 +13,16 @@
 - [Storj.js](https://github.com/Storj/storj.js) - Browser library for interacting with Storj.  
  
 # Whitepaper
-- https://storj.io/storj.pdf
+- [Storj Whitepaper 2.0](https://storj.io/storj.pdf) - Storj, A Peer-to-Peer Cloud Storage Network.
 
 # Tutorials / Examples 
-- [https://github.com/Storj/storj-node-heroku-example](Storj/Node Heroku Example)
+- [Quickstart](https://docs.storj.io/) - 
+- [Tutorials](https://storj.github.io/core/) - Step-by-step tutorial on how to get started using Storj.
+- [Storj/Node Heroku Example](https://github.com/Storj/storj-node-heroku-example)
+- [FAQ](https://storj.io/faq.html) - Frequently Asked Questions
 
 # Tools
-- [https://github.com/kadtools](kadtools)
+- [Kad Tools](https://github.com/kadtools)
 - [Official Heroku addon](https://elements.heroku.com/addons/storj)
 
 # Libraries
@@ -29,6 +32,14 @@
 - [The Storj Community](https://storj.io/community.html) - Join our Community
 - [The Storj Community Chat](https://community.storj.io/) - Join the Storj community on Rocket.chat
 
+# Contribute to Storj
+- [Give Feedback](https://wantoo.io/storj-product-feedback/) - Suggest new product ideas or upvoting existing ones.
+- [Write Guides](https://storj.io/get-paid-to-write.html) - Get paid to write guides and tutorials about our platform.
+- [Submit Code](https://storj.io/developers.html) - Submit pull requests on our public repository on GitHub.
+
 # Apps & Projects Using the Storj Platform
 - [storj.pics](storj.pics)
 - [P2P Storage Papers](http://hub.prestwi.ch/) - All files served with ❤️ from [storj.js](https://github.com/Storj/storj.js)
+
+# Support
+- [Storj Support](https://docs.storj.io/discuss) - If you any troubles or questions, please contact Storj support.
