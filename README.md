@@ -4,18 +4,21 @@
 
 - [Storj Documentation](https://docs.storj.io/docs) - Official Storj Documentation
 - [Storj on Github](https://github.com/storj) - All Storj repositories in one place
-- [Storj Core](https://github.com/Storj/core) - Implementation of the Storj protocol for Node.js
-- [Storj Core CLI](https://github.com/Storj/core-cli) - Javascript CLI for Storj Core.
-- [Storj C CLI](https://github.com/Storj/libstorj) - C CLI for Storj. 
+
 - [Storj Bridge](https://github.com/Storj/bridge) - Access the Storj network via simple REST API.
 - [Storj Bridge GUI](https://github.com/Storj/bridge-gui) - Web application for managing your Storj Bridge account.
 - [Storj Share GUI](https://github.com/Storj/storjshare-gui) - Earn money by sharing your extra hard drive space on the Storj network.
 - [Storj Share Daemon](https://github.com/storj/storjshare-daemon) - :imp: daemon + cli for farming data on the storj network. 
-- [Storj.js](https://github.com/Storj/storj.js) - Browser library for interacting with Storj.  
+
 
 # Apps & Projects Using the Storj Platform
-- [Storj.Pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28)
+- [storj.pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28)
 - [P2P Storage Papers](http://hub.prestwi.ch/) - All files served with ❤️ from [storj.js](https://github.com/Storj/storj.js)
+
+# Tools
+- [Storj CLI (C)](https://github.com/Storj/libstorj) - Newest and recommended CLI tool for Storj.  
+- [Storj CLI (Javascript)](https://github.com/Storj/core-cli) - Most mature CLI tool for Storj, and supports multifile uploads.
+- [Heroku Add-on](https://elements.heroku.com/addons/storj) - Storj in your favorite cloud platform. 
  
 # Whitepapers
 - [Storj Whitepaper v2](https://storj.io/storj.pdf) - Published December 15, 2016.
@@ -27,12 +30,9 @@
 - [Storj/Node Heroku Example](https://github.com/Storj/storj-node-heroku-example)
 - [FAQ](https://storj.io/faq.html) - Frequently Asked Questions
 
-# Tools
-- [Kad Tools](https://github.com/kadtools)
-- [Official Heroku addon](https://elements.heroku.com/addons/storj)
-
 # Libraries
-- [Kad](https://github.com/kadtools/kad)
+- [Storj Core](https://github.com/Storj/core) - Implementation of the Storj protocol for Node.js
+- [Storj.js](https://github.com/Storj/storj.js) - Browser library for interacting with Storj.  
 
 # Community
 - [Community Chat](https://storj.io/community.html) - Open community chat. Our most active discussion area. 
