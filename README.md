@@ -2,10 +2,8 @@
 
 > A curated list of projects, tools, and resources for the Storj platform. 
 
-- [Storj Documentation](https://docs.storj.io/docs) - Official Storj Documentation
-- [Storj on Github](https://github.com/storj) - All Storj repositories in one place
-- [Storj Bridge](https://github.com/Storj/bridge) - Access the Storj network via simple REST API.
-- [Storj Bridge GUI](https://github.com/Storj/bridge-gui) - Web application for managing your Storj Bridge account.
+- [Storj Documentation](https://docs.storj.io/docs) - Official Storj Documentation.
+- [Storj on Github](https://github.com/storj) - All Storj repositories in one place.
 
 # Apps & Projects
 - [storj.pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28) [[Github]](https://github.com/nginnever/storj.pics)
