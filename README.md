@@ -5,7 +5,8 @@
 - [Storj Documentation](https://docs.storj.io/docs) - Official Storj Documentation
 - [Storj on Github](https://github.com/storj) - All Storj repositories in one place
 - [Storj Core](https://github.com/Storj/core) - Implementation of the Storj protocol for Node.js
-- [Storj Core CLI](https://github.com/Storj/core-cli) - CLI for Storj Core
+- [Storj Core CLI](https://github.com/Storj/core-cli) - Javascript CLI for Storj Core.
+- [Storj C CLI](https://github.com/Storj/libstorj) - C CLI for Storj. 
 - [Storj Bridge](https://github.com/Storj/bridge) - Access the Storj network via simple REST API.
 - [Storj Bridge GUI](https://github.com/Storj/bridge-gui) - Web application for managing your Storj Bridge account.
 - [Storj Share GUI](https://github.com/Storj/storjshare-gui) - Earn money by sharing your extra hard drive space on the Storj network.
@@ -13,7 +14,8 @@
 - [Storj.js](https://github.com/Storj/storj.js) - Browser library for interacting with Storj.  
  
 # Whitepaper
-- [Storj Whitepaper 2.0](https://storj.io/storj.pdf) - Storj, A Peer-to-Peer Cloud Storage Network.
+- [Storj Whitepaper v2 - 2016](https://storj.io/storj.pdf) - Published December 15, 2016.
+- [Storj Whitepaper v1](https://storj.io/storj.pdf) - Published December 15, 2014. 
 
 # Tutorials / Examples 
 - [Quickstart](https://docs.storj.io/) - 
@@ -29,8 +31,9 @@
 - [Kad](https://github.com/kadtools/kad)
 
 # Community
-- [The Storj Community](https://storj.io/community.html) - Join our Community
-- [The Storj Community Chat](https://community.storj.io/) - Join the Storj community on Rocket.chat
+- [Community Chat](https://storj.io/community.html) - Open community chat on Rocket.chat
+- [Community Page](https://community.storj.io/) - Links to newsletter, chat, social media, and events.  
+
 
 # Contribute to Storj
 - [Give Feedback](https://wantoo.io/storj-product-feedback/) - Suggest new product ideas or upvoting existing ones.
