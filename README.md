@@ -14,8 +14,8 @@
 - [Storj.js](https://github.com/Storj/storj.js) - Browser library for interacting with Storj.  
  
 # Whitepaper
-- [Storj Whitepaper v2 - 2016](https://storj.io/storj.pdf) - Published December 15, 2016.
-- [Storj Whitepaper v1](https://storj.io/storj.pdf) - Published December 15, 2014. 
+- [Storj Whitepaper v2](https://storj.io/storj.pdf) - Published December 15, 2016.
+- [Storj Whitepaper v1](https://storj.io/storj2014.pdf) - Published December 15, 2014. 
 
 # Tutorials / Examples 
 - [Quickstart](https://docs.storj.io/) - 
