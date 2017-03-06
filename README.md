@@ -31,7 +31,7 @@
 
 # Libraries & Important Repos
 - [SIPS](https://github.com/Storj/sips) - Storj Improvement Proposals.
-- [KFS](https://github.com/Storj/kfs) - Kademlia inspired local file store based on leveldb.
+- [KFS](https://github.com/Storj/kfs) - Kademlia inspired local file store based on LevelDB.
 - [Storj Core](https://github.com/Storj/core) - Implementation of the Storj protocol for Node.
 - [Storj Bridge](https://github.com/Storj/bridge) - Access the Storj network via simple REST API. 
 - [Storj Complex](https://github.com/Storj/complex) - Manage many renter nodes with the same identity with remote control capabilities. 
