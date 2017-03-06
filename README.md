@@ -10,9 +10,9 @@
 - [P2P Storage Papers](http://hub.prestwi.ch/) - All files served with ❤️ from [storj.js](https://github.com/Storj/storj.js)
 
 # Tutorials & Examples 
-- [Quickstart](https://docs.storj.io/) - 
-- [Tutorials](https://storj.github.io/core/) - Step-by-step tutorial on how to get started using Storj.
-- [Storj/Node Heroku Example](https://github.com/Storj/storj-node-heroku-example)
+- [Quickstart](https://docs.storj.io/) - Steps thought creating an acccount, and using CLI tools. 
+- [Tutorials](https://storj.github.io/core/) - Full documentation for Storj Core, with many example scripts. 
+- [Storj Node Heroku Example in Node.js](https://github.com/Storj/storj-node-heroku-example) - Authenticate, create key pairs, create buckets, and upload and download a file.
 - [FAQ](https://storj.io/faq.html) - Frequently Asked Questions
 
 # Tools
