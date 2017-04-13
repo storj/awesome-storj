@@ -9,6 +9,7 @@
 - [P2P Storage Papers](http://hub.prestwi.ch/) - All files served with ❤️ from [storj.js](https://github.com/Storj/storj.js)
 - [storjrb-backupcore](https://bitbucket.org/DaveahamLincoln/storjrb-backupcore) - A generic Ruby script that facilitates the automation of multiple Storj backups.
 - [storj-gui-client](https://github.com/lakewik/storj-gui-client) - GUI Client for Storj Network written in Python and PyQt4.
+- [Storj Node Map](http://storjmap.overnetcity.com/) - Uses Bridge API to display online nodes on a map. [[Github]](https://github.com/bobey/StorjMap)
 
 # Tutorials & Examples 
 - [Quickstart](https://docs.storj.io/) - Steps thought creating an acccount, and using CLI tools. 
