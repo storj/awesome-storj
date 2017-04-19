@@ -43,8 +43,8 @@
 - [Storj.js](https://github.com/Storj/storj.js) - Browser library for interacting with Storj.  
 
 # Community
-- [Community Chat](https://storj.io/community.html) - Open community chat. Our most active discussion area. 
-- [Community Page](https://community.storj.io/) - Links to newsletter, chat, social media, and events.  
+- [Community Chat](https://community.storj.io/) - Open community chat. Our most active discussion area. 
+- [Community Page](https://storj.io/community.html) - Links to newsletter, chat, social media, and events.  
 
 # Contribute to Storj
 - [Give Feedback](https://wantoo.io/storj-product-feedback/) - Suggest new product ideas or upvoting existing ones.
