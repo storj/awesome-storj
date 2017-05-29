@@ -23,6 +23,7 @@
 - [Storj CLI (Javascript)](https://github.com/Storj/core-cli) - Most mature CLI tool for Storj, and supports multifile uploads.
 - [Heroku Add-on](https://elements.heroku.com/addons/storj) - Storj in your favorite cloud platform.
 - [Storj@stdlib](https://github.com/storj/stdlib.com) - Deploy a servless datastore on the stdlib network backed by Storj.
+- [storjshare-config-gen](https://jukeboxrhino.github.io/storjshare-config-gen/) - Easily generate configuration files for storjshare
 
 # Farming
 - [Storj Share GUI](https://storj.io/share.html) - Earn money by sharing your extra hard drive space on the Storj network.
