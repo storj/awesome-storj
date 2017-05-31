@@ -16,6 +16,7 @@
 - [Quickstart](https://docs.storj.io/) - Steps thought creating an acccount, and using CLI tools.
 - [Tutorials](https://storj.github.io/core/) - Full documentation for Storj Core, with many example scripts.
 - [Storj Node Heroku Example in Node.js](https://github.com/Storj/storj-node-heroku-example) - Authenticate, create key pairs, create buckets, and upload and download a file.
+- [Working with the Storj API](https://docs.google.com/document/d/1ehsSHtwnwC-LSgygxYGFuWoCx1DuhA2-XbDw64nggNY/edit?usp=sharing) - Order of method calls for uploading and downloading with the Storj API.
 - [FAQ](https://storj.io/faq.html) - Frequently Asked Questions.
 
 # Tools
