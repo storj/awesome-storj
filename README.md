@@ -10,6 +10,7 @@
 - [storj-gui-client](https://github.com/lakewik/storj-gui-client) - GUI Client for Storj Network written in Python and PyQt4.
 - [Storj Node Map](http://storjmap.overnetcity.com/) - Uses Bridge API to display online nodes on a map. [[Github]](https://github.com/bobey/StorjMap)
 - [Storj Collectd Plugin](https://github.com/bobey/storj-collectd-plugin) - Monitor your Storj.io nodes along with some Grafana/influxdb like solution.
+- [StorjStat](https://storjstat.com/) - Community made tool for monitoring your Storj farming node(s), the tool gives you both real-time and historical analysis.
 
 # Tutorials & Examples
 (These are always always in need of updates.)
