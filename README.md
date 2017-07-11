@@ -31,6 +31,7 @@
 - [Storj Share GUI](https://storj.io/share.html) - Earn money by sharing your extra hard drive space on the Storj network.
 - [Storj Share Daemon](https://github.com/storj/storjshare-daemon) - :imp: Daemon + CLI for farming data on the storj network.
 - [Payout Formula](https://gist.github.com/super3/a36a3d4967951ec678200f499364b81a) - Transparent formula that is used to calculate farmer payments.
+- [Storj Wallet](https://github.com/hunterlong/storj-wallet) - Storj Wallet (unofficial) for Windows, Mac and Linux. Send and Receive Storj ERC20 Token and Ethereum.
 
 # Whitepapers
 - [Storj Whitepaper v2](https://storj.io/storj.pdf) - Published December 15, 2016.
