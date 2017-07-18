@@ -11,13 +11,19 @@
 - [SwiftyStorj](https://github.com/angu/SwiftyStorj) - Bindings to libstorj for iOS (example, work-in-progress)
 - [StorjDotNet](https://github.com/ssa3512/StorjDotNet) - Bindings to libstorj for .NET (work-in-progress)
 
+# Farming
+- [Storj Share GUI](https://storj.io/share.html) - Earn money by sharing your extra hard drive space on the Storj network.
+- [Storj Share Daemon](https://github.com/storj/storjshare-daemon) - :imp: Daemon + CLI for farming data on the storj network.
+- [Payout Formula](https://gist.github.com/super3/a36a3d4967951ec678200f499364b81a) - Transparent formula that is used to calculate farmer payments.
+- [Storj Wallet](https://github.com/hunterlong/storj-wallet) - Storj Wallet (unofficial) for Windows, Mac and Linux. Send and Receive Storj ERC20 Token and Ethereum.
+- [Storj Collectd Plugin](https://github.com/bobey/storj-collectd-plugin) - Monitor your Storj.io nodes along with some Grafana/influxdb like solution.
+- [StorjStat](https://storjstat.com/) - Community made tool for monitoring your Storj farming node(s), the tool gives you both real-time and historical analysis.
+- [Storj Node Map](http://storjmap.overnetcity.com/) - Uses Bridge API to display online nodes on a map. [[Github]](https://github.com/bobey/StorjMap)
+
 # Apps & Projects built using Storj
 - [storj.pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28) [[Github]](https://github.com/nginnever/storj.pics)
 - [storjrb-backupcore](https://bitbucket.org/DaveahamLincoln/storjrb-backupcore) - A generic Ruby script that facilitates the automation of multiple Storj backups.
 - [storj-gui-client](https://github.com/lakewik/storj-gui-client) - GUI Client for Storj Network written in Python and PyQt4.
-- [Storj Node Map](http://storjmap.overnetcity.com/) - Uses Bridge API to display online nodes on a map. [[Github]](https://github.com/bobey/StorjMap)
-- [Storj Collectd Plugin](https://github.com/bobey/storj-collectd-plugin) - Monitor your Storj.io nodes along with some Grafana/influxdb like solution.
-- [StorjStat](https://storjstat.com/) - Community made tool for monitoring your Storj farming node(s), the tool gives you both real-time and historical analysis.
 
 # Tutorials & Examples
 (These are always always in need of updates.)
@@ -33,12 +39,6 @@
 - [Heroku Add-on](https://elements.heroku.com/addons/storj) - Storj in your favorite cloud platform.
 - [Storj@stdlib](https://github.com/storj/stdlib.com) - Deploy a servless datastore on the stdlib network backed by Storj.
 - [storjshare-config-gen](https://jukeboxrhino.github.io/storjshare-config-gen/) - Easily generate configuration files for storjshare
-
-# Farming
-- [Storj Share GUI](https://storj.io/share.html) - Earn money by sharing your extra hard drive space on the Storj network.
-- [Storj Share Daemon](https://github.com/storj/storjshare-daemon) - :imp: Daemon + CLI for farming data on the storj network.
-- [Payout Formula](https://gist.github.com/super3/a36a3d4967951ec678200f499364b81a) - Transparent formula that is used to calculate farmer payments.
-- [Storj Wallet](https://github.com/hunterlong/storj-wallet) - Storj Wallet (unofficial) for Windows, Mac and Linux. Send and Receive Storj ERC20 Token and Ethereum.
 
 # Whitepapers
 - [Storj Whitepaper v2](https://storj.io/storj.pdf) - Published December 15, 2016.
