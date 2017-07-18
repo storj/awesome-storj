@@ -15,6 +15,7 @@ Clients prepare files for uploading using encryption and erasure encoding and up
 - [StorjDotNet](https://github.com/ssa3512/StorjDotNet) - Bindings to libstorj for .NET (work-in-progress)
 - [Storj.js](https://github.com/Storj/storj.js) - Browser library for interacting with Storj (work-in-progress)
 - [Storj Python Library](https://github.com/storj/storj-python-sdk) - Python library for interacting with Storj (work-in-progress)
+- [Storj-PHP](https://github.com/WebWeave/storj-php) - Implementation of the Storj protocol for PHP (work-in-progress)
 
 # Farming
 
