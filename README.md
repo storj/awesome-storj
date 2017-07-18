@@ -5,6 +5,9 @@
 > A curated list of projects, tools, and resources for the Storj platform.
 
 # Client Libraries
+
+Clients prepare files for uploading using encryption and erasure encoding and upload and download files to the Storj network directly to farmers *(running Storjshare)* and store meta data on the Storj Bridge.
+
 - [libstorj](https://github.com/Storj/libstorj) - Asynchronous multi-platform C library and CLI for encrypted file transfer on the Storj network. 
 - [node-libstorj](https://github.com/Storj/node-libstorj) - Bindings to libstorj for Node.js (work-in-progress)
 - [hello-storj](https://github.com/kaloyan-raev/hello-storj) Bindings to libstorj for Java and Android (example, work-in-progress)
@@ -14,6 +17,9 @@
 - [Storj Python Library](https://github.com/storj/storj-python-sdk) - Python library for interacting with Storj (work-in-progress)
 
 # Farming
+
+Farmers store data on the Storj network in exchange for STORJ tokens based on contracts with any Storj Bridge.
+
 - [Storj Share GUI](https://storj.io/share.html) - Earn money by sharing your extra hard drive space on the Storj network.
 - [Storj Share Daemon](https://github.com/storj/storjshare-daemon) - :imp: Daemon + CLI for farming data on the storj network.
 - [Payout Formula](https://gist.github.com/super3/a36a3d4967951ec678200f499364b81a) - Transparent formula that is used to calculate farmer payments.
@@ -24,6 +30,9 @@
 - [storjshare-config-gen](https://jukeboxrhino.github.io/storjshare-config-gen/) - Easily generate configuration files for storjshare
 
 # Bridge
+
+Bridges store meta data of files and hold contracts with Storj farmers. The Bridge monitors the state of the metadata and will mirror, replicate and repair files when it's necessary.
+
 - [Storj Bridge](https://github.com/Storj/bridge) - Access the Storj network via simple REST API.
 - [Storj Complex](https://github.com/Storj/complex) - Manage many renter nodes with the same identity with remote control capabilities.
 - [Storj Billing](https://github.com/Storj/billing) - Creates debits and credits for Storj Bridge users.
@@ -31,6 +40,9 @@
 - [Storj Bridge GUI](https://github.com/Storj/bridge-gui) - Web application for managing your Storj Bridge account.
 
 # Network
+
+Description and implementation for the Storj protocol that all nodes and participants in the Storj network use to communicate.
+
 - [SIPS](https://github.com/Storj/sips) - Storj Improvement Proposals.
 - [Storj Core](https://github.com/Storj/core) - Implementation of the Storj protocol for Node.
 - [Storj Node Map](http://storjmap.overnetcity.com/) - Uses Bridge API to display online nodes on a map. [[Github]](https://github.com/bobey/StorjMap)
