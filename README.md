@@ -21,6 +21,7 @@
 - [KFS](https://github.com/Storj/kfs) - Kademlia inspired local file store based on LevelDB.
 - [Storj Collectd Plugin](https://github.com/bobey/storj-collectd-plugin) - Monitor your Storj.io nodes along with some Grafana/influxdb like solution.
 - [StorjStat](https://storjstat.com/) - Community made tool for monitoring your Storj farming node(s), the tool gives you both real-time and historical analysis.
+- [storjshare-config-gen](https://jukeboxrhino.github.io/storjshare-config-gen/) - Easily generate configuration files for storjshare
 
 # Bridge
 - [Storj Bridge](https://github.com/Storj/bridge) - Access the Storj network via simple REST API.
@@ -34,25 +35,21 @@
 - [Storj Core](https://github.com/Storj/core) - Implementation of the Storj protocol for Node.
 - [Storj Node Map](http://storjmap.overnetcity.com/) - Uses Bridge API to display online nodes on a map. [[Github]](https://github.com/bobey/StorjMap)
 
-# Apps & Projects built using Storj
+# Client Applications & Tools
+- [Storj CLI (C)](https://github.com/Storj/libstorj) - Newest and recommended CLI tool for Storj.  
+- [Storj CLI (Javascript)](https://github.com/Storj/core-cli) - Deprecated CLI tool for Storj (supports multifile uploads).
+- [Heroku Add-on](https://elements.heroku.com/addons/storj) - Storj in your favorite cloud platform.
+- [Storj@stdlib](https://github.com/storj/stdlib.com) - Deploy a servless datastore on the stdlib network backed by Storj.
 - [storj.pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28) [[Github]](https://github.com/nginnever/storj.pics)
 - [storjrb-backupcore](https://bitbucket.org/DaveahamLincoln/storjrb-backupcore) - A generic Ruby script that facilitates the automation of multiple Storj backups.
 - [storj-gui-client](https://github.com/lakewik/storj-gui-client) - GUI Client for Storj Network written in Python and PyQt4.
 
 # Tutorials & Examples
-(These are always always in need of updates.)
 - [Quickstart](https://docs.storj.io/) - Steps thought creating an acccount, and using CLI tools.
 - [Tutorials](https://storj.github.io/core/) - Full documentation for Storj Core, with many example scripts.
 - [Storj Node Heroku Example in Node.js](https://github.com/Storj/storj-node-heroku-example) - Authenticate, create key pairs, create buckets, and upload and download a file.
 - [Working with the Storj API](https://docs.google.com/document/d/1ehsSHtwnwC-LSgygxYGFuWoCx1DuhA2-XbDw64nggNY/edit?usp=sharing) - Order of method calls for uploading and downloading with the Storj API.
 - [FAQ](https://storj.io/faq.html) - Frequently Asked Questions.
-
-# Tools
-- [Storj CLI (C)](https://github.com/Storj/libstorj) - Newest and recommended CLI tool for Storj.  
-- [Storj CLI (Javascript)](https://github.com/Storj/core-cli) - Most mature CLI tool for Storj, and supports multifile uploads.
-- [Heroku Add-on](https://elements.heroku.com/addons/storj) - Storj in your favorite cloud platform.
-- [Storj@stdlib](https://github.com/storj/stdlib.com) - Deploy a servless datastore on the stdlib network backed by Storj.
-- [storjshare-config-gen](https://jukeboxrhino.github.io/storjshare-config-gen/) - Easily generate configuration files for storjshare
 
 # Whitepapers
 - [Storj Whitepaper v2](https://storj.io/storj.pdf) - Published December 15, 2016.
