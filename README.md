@@ -31,7 +31,7 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 
 # Bridge
 
-Bridges store meta data of files and hold contracts with Storj farmers. The Bridge monitors the state of the metadata and will mirror, replicate and repair files when it's necessary.
+Bridges store meta data of files and hold contracts with Storj farmers. A Bridge monitors the state of the metadata and will mirror, replicate and repair files when it's necessary.
 
 - [Storj Bridge](https://github.com/Storj/bridge) - Access the Storj network via simple REST API.
 - [Storj Complex](https://github.com/Storj/complex) - Manage many renter nodes with the same identity with remote control capabilities.
@@ -49,9 +49,9 @@ Description and implementation for the Storj protocol that all nodes and partici
 
 # Client Applications & Tools
 - [Storj CLI (C)](https://github.com/Storj/libstorj) - Newest and recommended CLI tool for Storj.  
-- [Storj CLI (Javascript)](https://github.com/Storj/core-cli) - Deprecated CLI tool for Storj (supports multifile uploads).
+- [Storj CLI (Javascript)](https://github.com/Storj/core-cli) - Deprecated CLI tool for Storj *(supports multifile uploads)*.
 - [Heroku Add-on](https://elements.heroku.com/addons/storj) - Storj in your favorite cloud platform.
-- [Storj@stdlib](https://github.com/storj/stdlib.com) - Deploy a servless datastore on the stdlib network backed by Storj.
+- [Storj@stdlib](https://github.com/storj/stdlib.com) - Deploy a serverless datastore on the stdlib network backed by Storj.
 - [storj.pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28) [[Github]](https://github.com/nginnever/storj.pics)
 - [storjrb-backupcore](https://bitbucket.org/DaveahamLincoln/storjrb-backupcore) - A generic Ruby script that facilitates the automation of multiple Storj backups.
 - [storj-gui-client](https://github.com/lakewik/storj-gui-client) - GUI Client for Storj Network written in Python and PyQt4.
