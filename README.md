@@ -10,6 +10,8 @@
 - [hello-storj](https://github.com/kaloyan-raev/hello-storj) Bindings to libstorj for Java and Android (example, work-in-progress)
 - [SwiftyStorj](https://github.com/angu/SwiftyStorj) - Bindings to libstorj for iOS (example, work-in-progress)
 - [StorjDotNet](https://github.com/ssa3512/StorjDotNet) - Bindings to libstorj for .NET (work-in-progress)
+- [Storj.js](https://github.com/Storj/storj.js) - Browser library for interacting with Storj (work-in-progress)
+- [Storj Python Library](https://github.com/storj/storj-python-sdk) - Python library for interacting with Storj (work-in-progress)
 
 # Farming
 - [Storj Share GUI](https://storj.io/share.html) - Earn money by sharing your extra hard drive space on the Storj network.
@@ -56,16 +58,12 @@
 - [Storj Whitepaper v2](https://storj.io/storj.pdf) - Published December 15, 2016.
 - [Storj Whitepaper v1](https://storj.io/storj2014.pdf) - Published December 15, 2014.
 
-# Libraries & Important Repos
-- [Storj on Github](https://github.com/storj) - All Storj repositories in one place.
-- [Storj.js](https://github.com/Storj/storj.js) - Browser and Node library for interacting with Storj.
-- [Storj Python Library](https://github.com/storj/storj-python-sdk) - Work in progress library for interacting with Storj.
-
 # Community
 - [Community Chat](https://community.storj.io/) - Open community chat. Our most active discussion area.
 - [Community Page](https://storj.io/community.html) - Links to newsletter, chat, social media, and events.  
 
 # Contribute to Storj
+- [Storj on Github](https://github.com/storj) - All Storj repositories in one place.
 - [Give Feedback](https://wantoo.io/storj-product-feedback/) - Suggest new product ideas or upvoting existing ones.
 - [Write Guides](https://storj.io/get-paid-to-write.html) - Get paid to write guides and tutorials about our platform.
 - [Submit Code](https://storj.io/developers.html) - Submit pull requests on our public repositories on GitHub.
