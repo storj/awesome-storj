@@ -20,6 +20,13 @@
 - [StorjStat](https://storjstat.com/) - Community made tool for monitoring your Storj farming node(s), the tool gives you both real-time and historical analysis.
 - [Storj Node Map](http://storjmap.overnetcity.com/) - Uses Bridge API to display online nodes on a map. [[Github]](https://github.com/bobey/StorjMap)
 
+# Bridge
+- [Storj Bridge](https://github.com/Storj/bridge) - Access the Storj network via simple REST API.
+- [Storj Complex](https://github.com/Storj/complex) - Manage many renter nodes with the same identity with remote control capabilities.
+- [Storj Billing](https://github.com/Storj/billing) - Creates debits and credits for Storj Bridge users.
+- [Storj Models](https://github.com/Storj/service-storage-models) - Database models for Storj Bridge
+- [Storj Bridge GUI](https://github.com/Storj/bridge-gui) - Web application for managing your Storj Bridge account.
+
 # Apps & Projects built using Storj
 - [storj.pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28) [[Github]](https://github.com/nginnever/storj.pics)
 - [storjrb-backupcore](https://bitbucket.org/DaveahamLincoln/storjrb-backupcore) - A generic Ruby script that facilitates the automation of multiple Storj backups.
@@ -49,9 +56,6 @@
 - [SIPS](https://github.com/Storj/sips) - Storj Improvement Proposals.
 - [KFS](https://github.com/Storj/kfs) - Kademlia inspired local file store based on LevelDB.
 - [Storj Core](https://github.com/Storj/core) - Implementation of the Storj protocol for Node.
-- [Storj Bridge](https://github.com/Storj/bridge) - Access the Storj network via simple REST API.
-- [Storj Complex](https://github.com/Storj/complex) - Manage many renter nodes with the same identity with remote control capabilities.
-- [Storj Bridge GUI](https://github.com/Storj/bridge-gui) - Web application for managing your Storj Bridge account.
 - [Storj.js](https://github.com/Storj/storj.js) - Browser and Node library for interacting with Storj.
 - [Storj Python Library](https://github.com/storj/storj-python-sdk) - Work in progress library for interacting with Storj.
 
