@@ -4,6 +4,13 @@
 
 > A curated list of projects, tools, and resources for the Storj platform.
 
+# Client Libraries
+- [libstorj](https://github.com/Storj/libstorj) - Asynchronous multi-platform C library and CLI for encrypted file transfer on the Storj network. 
+- [node-libstorj](https://github.com/Storj/node-libstorj) - Bindings to libstorj for Node.js (work-in-progress)
+- [hello-storj](https://github.com/kaloyan-raev/hello-storj) Bindings to libstorj for Java and Android (example, work-in-progress)
+- [SwiftyStorj](https://github.com/angu/SwiftyStorj) - Bindings to libstorj for iOS (example, work-in-progress)
+- [StorjDotNet](https://github.com/ssa3512/StorjDotNet) - Bindings to libstorj for .NET (work-in-progress)
+
 # Apps & Projects built using Storj
 - [storj.pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28) [[Github]](https://github.com/nginnever/storj.pics)
 - [storjrb-backupcore](https://bitbucket.org/DaveahamLincoln/storjrb-backupcore) - A generic Ruby script that facilitates the automation of multiple Storj backups.
