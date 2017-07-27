@@ -44,6 +44,7 @@ Bridges store meta data of files and hold contracts with Storj farmers. A Bridge
 
 Description and implementation for the Storj protocol that all nodes and participants in the Storj network use to communicate.
 
+- [Storj Status](https://status.storj.io/) - Status of the Storj network
 - [SIPS](https://github.com/Storj/sips) - Storj Improvement Proposals.
 - [Storj Core](https://github.com/Storj/core) - Implementation of the Storj protocol for Node.
 - [Storj Node Map](http://storjmap.overnetcity.com/) - Uses Bridge API to display online nodes on a map. [[Github]](https://github.com/bobey/StorjMap)
