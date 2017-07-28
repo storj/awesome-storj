@@ -28,7 +28,8 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 - [KFS](https://github.com/Storj/kfs) - Kademlia inspired local file store based on LevelDB.
 - [Storj Collectd Plugin](https://github.com/bobey/storj-collectd-plugin) - Monitor your Storj.io nodes along with some Grafana/influxdb like solution.
 - [StorjStat](https://storjstat.com/) - Community made tool for monitoring your Storj farming node(s), the tool gives you both real-time and historical analysis.
-- [storjshare-config-gen](https://jukeboxrhino.github.io/storjshare-config-gen/) - Easily generate configuration files for storjshare
+- [storjshare-config-gen](https://jukeboxrhino.github.io/storjshare-config-gen/) - Easily generate configuration files for storjshare.
+- [storj-location-parser](https://github.com/geckogecko/storj-location-parser) - Find the location of nodes that talk to your node.
 
 # Bridge
 
