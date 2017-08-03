@@ -53,7 +53,8 @@ Description and implementation for the Storj protocol that all nodes and partici
 - [Storj Node Map](http://storjmap.overnetcity.com/) - Uses Bridge API to display online nodes on a map. [[Github]](https://github.com/bobey/StorjMap)
 
 # Client Applications & Tools
-- [Storj CLI (C)](https://github.com/Storj/libstorj) - Newest and recommended CLI tool for Storj.  
+- [FileZilla](https://docs.storj.io/docs/filezilla-getting-started) - New protocol for Storj is being added to FileZilla.
+- [Storj CLI (C)](https://github.com/Storj/libstorj) - Newest and recommended CLI tool for Storj.
 - [Storj CLI (Javascript)](https://github.com/Storj/core-cli) - Deprecated CLI tool for Storj *(supports multifile uploads)*.
 - [Heroku Add-on](https://elements.heroku.com/addons/storj) - Storj in your favorite cloud platform.
 - [Storj@stdlib](https://github.com/storj/stdlib.com) - Deploy a serverless datastore on the stdlib network backed by Storj.
