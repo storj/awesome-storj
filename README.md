@@ -28,6 +28,7 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 - [Storj Wallet](https://github.com/hunterlong/storj-wallet) - Storj Wallet (unofficial) for Windows, Mac and Linux. Send and Receive Storj ERC20 Token and Ethereum.
 - [KFS](https://github.com/Storj/kfs) - Kademlia inspired local file store based on LevelDB.
 - [Storj Collectd Plugin](https://github.com/bobey/storj-collectd-plugin) - Monitor your Storj.io nodes along with some Grafana/influxdb like solution.
+- [ssdynamite](http://ssdynamite.com/) - Community made tool for analyzing Storj Share logs for connectivity issues 
 - [StorjStat](https://storjstat.com/) - Community made tool for monitoring your Storj farming node(s), the tool gives you both real-time and historical analysis.
 - [Storjshare Status Checker](https://github.com/DMcP89/StorjShareStatusChecker) - Community made tool for sending storjshare stats to IFTTT.
 - [storjshare-config-gen](https://jukeboxrhino.github.io/storjshare-config-gen/) - Easily generate configuration files for storjshare.
