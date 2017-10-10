@@ -11,7 +11,8 @@ Clients prepare files for uploading using encryption and erasure encoding and up
 - [libstorj](https://github.com/Storj/libstorj) - Asynchronous multi-platform C library and CLI for encrypted file transfer on the Storj network. 
 - [node-libstorj](https://github.com/Storj/node-libstorj) - Bindings to libstorj for Node.js (work-in-progress)
 - [ruby-libstorj](https://github.com/Storj/ruby-libstorj) - Bindings to libstorj for Ruby (work-in-progress)
-- [hello-storj](https://github.com/kaloyan-raev/hello-storj) Bindings to libstorj for Java and Android (example, work-in-progress)
+- [android-storj](https://github.com/Storj/android-libstorj) - Bindings to libstorj for Java and Android (work-in-progress)
+- [hello-storj](https://github.com/kaloyan-raev/hello-storj) - Example app based on android-libstorj (example, work-in-progress)
 - [SwiftyStorj](https://github.com/angu/SwiftyStorj) - Bindings to libstorj for iOS (example, work-in-progress)
 - [StorjDotNet](https://github.com/ssa3512/StorjDotNet) - Bindings to libstorj for .NET (work-in-progress)
 - [Storj.js](https://github.com/Storj/storj.js) - Browser library for interacting with Storj (work-in-progress)
