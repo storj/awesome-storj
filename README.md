@@ -34,6 +34,7 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 - [Storjshare Status Checker](https://github.com/DMcP89/StorjShareStatusChecker) - Community made tool for sending storjshare stats to IFTTT.
 - [storjshare-config-gen](https://jukeboxrhino.github.io/storjshare-config-gen/) - Easily generate configuration files for storjshare.
 - [storj-location-parser](https://github.com/geckogecko/storj-location-parser) - Find the location of nodes that talk to your node.
+- [Storj-HostStats](https://github.com/geckogecko/storj_hoststats_app) - Community made Android app. Features: Node Statistics, Alerts, Response Time Graphs, etc. 
 - [storJDash](https://github.com/sibblegp/Storj-Dashboard-Client) - Farming Dashboard that tracks useful data about all your servers, nodes, storage space, response times, reputation, and much more.
 
 
