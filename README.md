@@ -11,7 +11,8 @@ Clients prepare files for uploading using encryption and erasure encoding and up
 - [libstorj](https://github.com/Storj/libstorj) - Asynchronous multi-platform C library and CLI for encrypted file transfer on the Storj network. 
 - [node-libstorj](https://github.com/Storj/node-libstorj) - Bindings to libstorj for Node.js (work-in-progress)
 - [ruby-libstorj](https://github.com/Storj/ruby-libstorj) - Bindings to libstorj for Ruby (work-in-progress)
-- [hello-storj](https://github.com/kaloyan-raev/hello-storj) Bindings to libstorj for Java and Android (example, work-in-progress)
+- [android-storj](https://github.com/Storj/android-libstorj) - Bindings to libstorj for Java and Android (work-in-progress)
+- [hello-storj](https://github.com/kaloyan-raev/hello-storj) - Example app based on android-libstorj (example, work-in-progress)
 - [SwiftyStorj](https://github.com/angu/SwiftyStorj) - Bindings to libstorj for iOS (example, work-in-progress)
 - [StorjDotNet](https://github.com/ssa3512/StorjDotNet) - Bindings to libstorj for .NET (work-in-progress)
 - [Storj.js](https://github.com/Storj/storj.js) - Browser library for interacting with Storj (work-in-progress)
@@ -34,6 +35,7 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 - [storjshare-config-gen](https://jukeboxrhino.github.io/storjshare-config-gen/) - Easily generate configuration files for storjshare.
 - [storj-location-parser](https://github.com/geckogecko/storj-location-parser) - Find the location of nodes that talk to your node.
 - [Storj-HostStats](https://github.com/geckogecko/storj_hoststats_app) - Community made Android app. Features: Node Statistics, Alerts, Response Time Graphs, etc. 
+- [storJDash](https://github.com/sibblegp/Storj-Dashboard-Client) - Farming Dashboard that tracks useful data about all your servers, nodes, storage space, response times, reputation, and much more.
 
 
 # Bridge
@@ -64,6 +66,7 @@ Description and implementation for the Storj protocol that all nodes and partici
 - [storj.pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28) [[Github]](https://github.com/nginnever/storj.pics)
 - [storjrb-backupcore](https://bitbucket.org/DaveahamLincoln/storjrb-backupcore) - A generic Ruby script that facilitates the automation of multiple Storj backups.
 - [storj-gui-client](https://github.com/lakewik/storj-gui-client) - GUI Client for Storj Network written in Python and PyQt4.
+- [STORJPebble](https://github.com/eliassjogreen/STORJPebble) - A storj node monitoring app for the pebble smartwatches
 
 # Tutorials & Examples
 - [Quickstart](https://docs.storj.io/) - Steps thought creating an acccount, and using CLI tools.
