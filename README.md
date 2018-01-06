@@ -37,6 +37,7 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 - [storj-location-parser](https://github.com/geckogecko/storj-location-parser) - Find the location of nodes that talk to your node.
 - [Storj-HostStats](https://github.com/geckogecko/storj_hoststats_app) - Community made Android app. Features: Node Statistics, Alerts, Response Time Graphs, etc. 
 - [storJDash](https://github.com/sibblegp/Storj-Dashboard-Client) - Farming Dashboard that tracks useful data about all your servers, nodes, storage space, response times, reputation, and much more.
+- [Storj_Node_Query](https://github.com/funtimes-ninja/storj_node_query) - Python3 script to get the status of your nodes
 
 
 # Bridge
