@@ -37,8 +37,8 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 - [storj-location-parser](https://github.com/geckogecko/storj-location-parser) - Find the location of nodes that talk to your node.
 - [Storj-HostStats](https://github.com/geckogecko/storj_hoststats_app) - Community made Android app. Features: Node Statistics, Alerts, Response Time Graphs, etc. 
 - [storJDash](https://github.com/sibblegp/Storj-Dashboard-Client) - Farming Dashboard that tracks useful data about all your servers, nodes, storage space, response times, reputation, and much more.
+- [StorJ Telegraf Plugin](https://github.com/salgieri/StorJ-Telegraf-Plugin) - A Telegraf Exec Plugin for harvesting Storj Metrics.
 - [Storj_Node_Query](https://github.com/funtimes-ninja/storj_node_query) - Python3 script to get the status of your nodes
-
 
 # Bridge
 
@@ -84,6 +84,7 @@ Description and implementation for the Storj protocol that all nodes and partici
 # Community
 - [Community Chat](https://community.storj.io/) - Open community chat. Our most active discussion area.
 - [Community Page](https://storj.io/community.html) - Links to newsletter, chat, social media, and events.  
+- [Discord](https://discord.gg/S6KTchS) - Community discord server with chat and voice chat. 
 
 # Contribute to Storj
 - [Storj on Github](https://github.com/storj) - All Storj repositories in one place.
