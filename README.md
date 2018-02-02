@@ -8,7 +8,8 @@
 
 Clients prepare files for uploading using encryption and erasure encoding and upload and download files to the Storj network directly to farmers *(running Storjshare)* and store meta data on the Storj Bridge.
 
-- [libstorj](https://github.com/Storj/libstorj) - Asynchronous multi-platform C library and CLI for encrypted file transfer on the Storj network. 
+- [libstorj](https://github.com/Storj/libstorj) - Asynchronous multi-platform C library and CLI for encrypted file transfer on the Storj network.
+- [docker-libstorj](https://github.com/jchancehud/docker-libstorj) - A docker image containing a built and tested libstorj executable.
 - [node-libstorj](https://github.com/Storj/node-libstorj) - Bindings to libstorj for Node.js (work-in-progress)
 - [ruby-libstorj](https://github.com/Storj/ruby-libstorj) - Bindings to libstorj for Ruby (work-in-progress)
 - [android-storj](https://github.com/Storj/android-libstorj) - Bindings to libstorj for Java and Android (work-in-progress)
