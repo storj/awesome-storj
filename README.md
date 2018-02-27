@@ -41,6 +41,7 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 - [storJDash](https://github.com/sibblegp/Storj-Dashboard-Client) - Farming Dashboard that tracks useful data about all your servers, nodes, storage space, response times, reputation, and much more.
 - [StorJ Telegraf Plugin](https://github.com/salgieri/StorJ-Telegraf-Plugin) - A Telegraf Exec Plugin for harvesting Storj Metrics.
 - [Storj_Node_Query](https://github.com/funtimes-ninja/storj_node_query) - Python3 script to get the status of your nodes
+- [cloudstorj](https://github.com/Pampyz/cloudstorj) - A few scripts that will initiate a google VM and automatically set up a fully configured storj node.
 
 # Bridge
 
