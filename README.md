@@ -37,6 +37,7 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 - [Storjshare Status Checker](https://github.com/DMcP89/StorjShareStatusChecker) - Community made tool for sending storjshare stats to IFTTT.
 - [storjshare-config-gen](https://jukeboxrhino.github.io/storjshare-config-gen/) - Easily generate configuration files for storjshare.
 - [storj-location-parser](https://github.com/geckogecko/storj-location-parser) - Find the location of nodes that talk to your node.
+- [STORJPebble](https://github.com/eliassjogreen/STORJPebble) - A storj node monitoring app for the pebble smartwatches.
 - [Storj-HostStats](https://github.com/geckogecko/storj_hoststats_app) - Community made Android app. Features: Node Statistics, Alerts, Response Time Graphs, etc. 
 - [storJDash](https://github.com/sibblegp/Storj-Dashboard-Client) - Farming Dashboard that tracks useful data about all your servers, nodes, storage space, response times, reputation, and much more.
 - [StorJ Telegraf Plugin](https://github.com/salgieri/StorJ-Telegraf-Plugin) - A Telegraf Exec Plugin for harvesting Storj Metrics.
@@ -70,7 +71,6 @@ Description and implementation for the Storj protocol that all nodes and partici
 - [storj.pics](http://storj.pics) - Upload and share pictures using Storj 100% in browser. [[Example]](http://storj.pics/#/public/3c894b5bc1b2b8c8a69915c7/files/867cd8678ce8363eb6a38a28) [[Github]](https://github.com/nginnever/storj.pics)
 - [storjrb-backupcore](https://bitbucket.org/DaveahamLincoln/storjrb-backupcore) - A generic Ruby script that facilitates the automation of multiple Storj backups.
 - [storj-gui-client](https://github.com/lakewik/storj-gui-client) - GUI Client for Storj Network written in Python and PyQt4.
-- [STORJPebble](https://github.com/eliassjogreen/STORJPebble) - A storj node monitoring app for the pebble smartwatches.
 - [Goobox community](https://github.com/GooBox/goobox-community-gui) - A desktop file synchronization client for Storj.
 
 # Tutorials & Examples
