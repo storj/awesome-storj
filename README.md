@@ -12,6 +12,7 @@ Clients prepare files for uploading using encryption and erasure encoding and up
 - [docker-libstorj](https://github.com/jchancehud/docker-libstorj) - A docker image containing a built and tested libstorj executable.
 - [node-libstorj](https://github.com/Storj/node-libstorj) - Bindings to libstorj for Node.js (work-in-progress)
 - [ruby-libstorj](https://github.com/Storj/ruby-libstorj) - Bindings to libstorj for Ruby (work-in-progress)
+- [python-libstorj](https://github.com/Storj/python-libstorj) - Bindings to libstorj for Python (work-in-progress)
 - [android-storj](https://github.com/Storj/android-libstorj) - Bindings to libstorj for Java and Android (work-in-progress)
 - [hello-storj](https://github.com/kaloyan-raev/hello-storj) - Example app based on android-libstorj (example, work-in-progress)
 - [SwiftyStorj](https://github.com/angu/SwiftyStorj) - Bindings to libstorj for iOS (example, work-in-progress)
@@ -36,6 +37,7 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 - [Storjshare Status Checker](https://github.com/DMcP89/StorjShareStatusChecker) - Community made tool for sending storjshare stats to IFTTT.
 - [storjshare-config-gen](https://jukeboxrhino.github.io/storjshare-config-gen/) - Easily generate configuration files for storjshare.
 - [storj-location-parser](https://github.com/geckogecko/storj-location-parser) - Find the location of nodes that talk to your node.
+- [STORJPebble](https://github.com/eliassjogreen/STORJPebble) - A storj node monitoring app for the pebble smartwatches.
 - [Storj-HostStats](https://github.com/geckogecko/storj_hoststats_app) - Community made Android app. Features: Node Statistics, Alerts, Response Time Graphs, etc. 
 - [storJDash](https://github.com/sibblegp/Storj-Dashboard-Client) - Farming Dashboard that tracks useful data about all your servers, nodes, storage space, response times, reputation, and much more.
 - [StorJ Telegraf Plugin](https://github.com/salgieri/StorJ-Telegraf-Plugin) - A Telegraf Exec Plugin for harvesting Storj Metrics.
@@ -71,6 +73,7 @@ Description and implementation for the Storj protocol that all nodes and partici
 - [storj-gui-client](https://github.com/lakewik/storj-gui-client) - GUI Client for Storj Network written in Python and PyQt4.
 - [STORJPebble](https://github.com/eliassjogreen/STORJPebble) - A storj node monitoring app for the pebble smartwatches
 - [AllStorj](https://github.com/dri94/AllStorj) - A storj management app for Android
+- [Goobox community](https://github.com/GooBox/goobox-community-gui) - A desktop file synchronization client for Storj.
 
 # Tutorials & Examples
 - [Quickstart](https://docs.storj.io/) - Steps thought creating an acccount, and using CLI tools.
