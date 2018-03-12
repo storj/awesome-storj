@@ -16,7 +16,7 @@ Clients prepare files for uploading using encryption and erasure encoding and up
 - [android-storj](https://github.com/Storj/android-libstorj) - Bindings to libstorj for Java and Android (work-in-progress)
 - [hello-storj](https://github.com/kaloyan-raev/hello-storj) - Example app based on android-libstorj (example, work-in-progress)
 - [SwiftyStorj](https://github.com/angu/SwiftyStorj) - Bindings to libstorj for iOS (example, work-in-progress)
-- [StorjDotNet](https://github.com/ssa3512/StorjDotNet) - Bindings to libstorj for .NET (work-in-progress)
+- [StorjDotNet](https://github.com/ssa3512/StorjDotNet) - .NET library for interacting with Storj (work-in-progress)
 - [Storj.js](https://github.com/Storj/storj.js) - Browser library for interacting with Storj (work-in-progress)
 - [Storj Python Library](https://github.com/storj/storj-python-sdk) - Python library for interacting with Storj (work-in-progress)
 - [Storj-PHP](https://github.com/WebWeave/storj-php) - Implementation of the Storj protocol for PHP (work-in-progress)
