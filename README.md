@@ -62,7 +62,7 @@ Description and implementation for the Storj protocol that all nodes and partici
 - [Storj Status](https://status.storj.io/) - Status of the Storj network
 - [SIPS](https://github.com/Storj/sips) - Storj Improvement Proposals.
 - [Storj Core](https://github.com/Storj/core) - Implementation of the Storj protocol for Node.
-- [Storj Node Map](http://storjmap.overnetcity.com/) - Uses Bridge API to display online nodes on a map. [[Github]](https://github.com/bobey/StorjMap)
+- [Storj Node Map](https://map.storj.space/) - Uses Bridge API to display online nodes on a map.
 
 # Client Applications & Tools
 - [FileZilla](https://docs.storj.io/docs/filezilla-getting-started) - New protocol for Storj is being added to FileZilla.
