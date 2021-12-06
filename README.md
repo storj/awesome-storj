@@ -15,6 +15,8 @@ Note: this list contains only projects which are compatible with the current (v3
 - [Usage statistic dashboard](https://storjstats.info/) - Statistics about the full Storj network ([raw data](https://stats.storjshare.io/))
 - [Whitepaper v3](https://storj.io/storj.pdf) - Actual version of Storj white-paper 
 - [FAQ](https://docs.storj.io/dcs/support/faqs) - Frequently Asked questions and answers 
+- [Storj on Twitter](https://twitter.com/storj/) - Official twitter channel of Storj Labs
+- [Storj on Youtube](https://www.youtube.com/c/StorjLabs) - Official Youtube channel of Storj
 
  ## Clients with Storj support and integrations 
 
