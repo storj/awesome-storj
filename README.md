@@ -12,7 +12,7 @@ Note: this list contains only projects which are compatible with the current (v3
 - [Documentation](https://docs.storj.io/dcs/) - Entrypoint to the official documentation
 - [Community support / forum](forum.storj.io/) - Community and support forum
 - [Storj Status](https://status.storj.io/) - Status of the Storj network
-- [Usage statistic dashboard](https://storjstats.info/) - Statistics about the full Storj network
+- [Usage statistic dashboard](https://storjstats.info/) - Statistics about the full Storj network ([raw data](https://stats.storjshare.io/))
 - [Whitepaper v3](https://storj.io/storj.pdf) - Actual version of Storj white-paper 
 - [FAQ](https://docs.storj.io/dcs/support/faqs) - Frequently Asked questions and answers 
 
@@ -24,14 +24,14 @@ Note: this list contains only projects which are compatible with the current (v3
 * [restic]() - Restic is a modern backup program. Supports Storj via the rclone . [howto](https://docs.storj.io/dcs/how-tos/backup-with-restic), [docs](https://restic.readthedocs.io/en/stable/030_preparing_a_new_repo.html#other-services-via-rclone)
 
 * [FileZilla](https://docs.storj.io/dcs/how-tos/set-up-filezilla-for-decentralized-file-transfer) - New protocol for Storj is being added to FileZilla. 
-* [NextCloud](https://github.com/storj-thirdparty/nextcloud-app) - Adds Storj external storage to NextCloud 
+* [NextCloud](https://apps.nextcloud.com/apps/storj) - Adds Storj external storage to NextCloud 
 * [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online ([howto](https://docs.storj.io/dcs/how-tos/backup-with-duplicati))
 
 # Client Libraries & language bindings
 
 Storj can be used via the native interface (uplink CLI and uplink libraries) or as an S3 compatible backend with any S3 compatible tool. The following list focuses on the native protocol.
 
-- [uplink](https://github.com/storj/uplink) - Go library to use Storj
+- [uplink](https://github.com/storj/uplink) - Go library to use Storj (documentation)[https://pkg.go.dev/storj.io/uplink]
 - [uplink-c](https://github.com/storj/uplink-c) - C library of the Uplink
 
 * [uplink-python](https://github.com/storj-thirdparty/uplink-python) - Python bindings for libuplink
@@ -52,6 +52,7 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 * [Fastly](https://fastly.com) - Content delivery network with Storj support ([docs](https://docs.fastly.com/en/guides/storj-dcs-object-storage))
 * [Filebase](https://filebase.com/) - S3 compatible Object Storage. One of the supported storage backend is Storj ([docs](https://docs.filebase.com/what-is-filebase/our-ecosystem/storage-networks/storj#how-do-i-store-data-on-storj-through-filebase))
 * [Opensea](https://opensea.io/) -- NFT marketplace. Supports hosting NFT resources on Storj ([howto](https://docs.storj.io/dcs/how-tos/nft-storage))
+* [Pixelexperience](https://download.pixelexperience.org/) - Android ROMS are [distributed with the help of Storj](https://www.storj.io/blog/pixelexperience-scales-up-software-distribution-with-storj-dcs)
 
 ## Tokeneconomics
 
