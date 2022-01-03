@@ -18,7 +18,7 @@ Note: this list contains only projects which are compatible with the current (v3
 - [Storj on Twitter](https://twitter.com/storj/) - Official twitter channel of Storj Labs
 - [Storj on Youtube](https://www.youtube.com/c/StorjLabs) - Official Youtube channel of Storj
 
- ## Clients with Storj support and integrations 
+## Clients with Storj support and integrations 
 
 * **[uplink](https://github.com/storj/storj/releases) - Uplink is the official CLI for Storj. Can be downloaded from the release page** 
 * [Storj Mobile](https://play.google.com/store/apps/details?id=com.storj_mobile) (beta) - Android application to access Storj ([forum post](https://forum.storj.io/t/storj-mobile-beta-for-android/15578))
@@ -73,3 +73,8 @@ STORJ is an ERC-20 utility token for the Storj network.
 - [Storj illustrated](https://github.com/storj/illustrated) - diagrams to explain internals of Storj architecture
 - [storj-up](https://github.com/storj/up) - docker-compose based helper utility to startup full network (satellite + storage nodes) locally
 - [Storj on Github](https://github.com/storj) - All Storj repositories in one place.
+
+## Experiments
+
+- [Tool to directly read files from uploaded ZIP files](https://github.com/storj/zipper)
+- [Using Storj as IPFS backend](https://github.com/kaloyan-raev/ipfs-go-ds-storj)
