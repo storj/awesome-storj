@@ -76,6 +76,6 @@ STORJ is an ERC-20 utility token for the Storj network.
 
 ## Tools, utilities, experiments
 
-- [Ansible playbook to install single-tenant S3 gateway](https://gitlab.phowork.fr/phowork/iac/ansible/roles/storj-gateway-st)
+- [Ansible role to install and configure single-tenant S3 gateway](https://gitlab.phowork.fr/phowork/iac/ansible/roles/storj-gateway-st)
 - [Tool to directly read files from uploaded ZIP files](https://github.com/storj/zipper)
 - [Using Storj as IPFS backend](https://github.com/kaloyan-raev/ipfs-go-ds-storj)
