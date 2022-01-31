@@ -70,7 +70,7 @@ STORJ is an ERC-20 utility token for the Storj network.
 # Contribution
 
 - [Contribution guideline](https://github.com/storj/storj/blob/main/CONTRIBUTING.md) - How to contribute to Storj
-- [Give Feedback](https://forum.storj.io/c/ideas-and-suggestions/5) - Suggest new product ideas in the the community forum
+- [Give Feedback](https://forum.storj.io/c/ideas-and-suggestions/5) - Suggest new product ideas in the community forum
 - [Ideas and suggestions](https://forum.storj.io/c/ideas-and-suggestions/5) on Storj forum
 - [Storj illustrated](https://github.com/storj/illustrated) - diagrams to explain internals of Storj architecture
 - [storj-up](https://github.com/storj/up) - docker-compose based helper utility to startup full network (satellite + storage nodes) locally
