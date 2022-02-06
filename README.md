@@ -48,7 +48,8 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 - [Getting started with hosting Storagenode](https://www.storj.io/host-a-node/)
 - [SNO Payment FAQ](https://forum.storj.io/t/sno-payment-mega-faq/16228) - Huge list of questions answered on the forum
 - [Node FAQ](https://docs.storj.io/node/resources/faq) - FAQ about operating Storage Nodes
-- [Grafana dashboard](https://gist.github.com/littleskunk/b16567743626d9dd33454463a2e8a5d4) - Grafana dashboard for the internal Prometheus endpoint of storagenodes ([forum post](https://forum.storj.io/t/tech-preview-email-alerts-with-grafana-and-prometheus/16156/8))
+- [Grafana dashboard](https://gist.github.com/littleskunk/b16567743626d9dd33454463a2e8a5d4) - Grafana dashboard for the native Prometheus endpoint of storagenodes ([forum post](https://forum.storj.io/t/tech-preview-email-alerts-with-grafana-and-prometheus/16156/8))
+- [Grafana dashboard](https://github.com/anclrii/Storj-Exporter-dashboard) for external [Prometheus exporter](https://github.com/anclrii/Storj-Exporter)
 - [Earnings calculator](https://github.com/ReneSmeekes/storj_earnings) - Python script prints out estimated earnings based on local data of Storagenode ([forum post](https://forum.storj.io/t/earnings-calculator-update-2022-01-13-v11-0-0-detailed-earnings-info-and-health-status-of-your-node-including-vetting-progress/1794/432))
 
 ## Services based on / with support of Storj 
