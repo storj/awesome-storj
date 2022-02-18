@@ -28,6 +28,7 @@ Note: this list contains only projects which are compatible with the current (v3
 * [FileZilla](https://docs.storj.io/dcs/how-tos/set-up-filezilla-for-decentralized-file-transfer) - New protocol for Storj is being added to FileZilla. 
 * [NextCloud](https://apps.nextcloud.com/apps/storj) - Adds Storj external storage to NextCloud 
 * [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online ([howto](https://docs.storj.io/dcs/how-tos/backup-with-duplicati))
+* [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 
 # Client Libraries & language bindings
 
