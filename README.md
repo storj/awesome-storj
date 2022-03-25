@@ -13,6 +13,7 @@ Note: this list contains only projects which are compatible with the current (v3
 - [Community support / forum](forum.storj.io/) - Community and support forum
 - [Storj Status](https://status.storj.io/) - Status of the Storj network
 - [Usage statistic dashboard](https://storjstats.info/) - Statistics about the full Storj network ([raw data](https://stats.storjshare.io/))
+- [Roadmap](https://github.com/storj/roadmap/) - Official roadmap of Storj development
 - [Whitepaper v3](https://storj.io/storj.pdf) - Actual version of Storj white-paper 
 - [FAQ](https://docs.storj.io/dcs/support/faqs) - Frequently Asked questions and answers 
 - [Storj on Twitter](https://twitter.com/storj/) - Official twitter channel of Storj Labs
