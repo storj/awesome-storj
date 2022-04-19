@@ -70,9 +70,9 @@ STORJ is an ERC-20 utility token for the Storj network.
 * Latest STORJ Token Balance & Flows Report: [Q4 2021](https://www.storj.io/blog/storj-token-balances-and-flows-report-q4-2021)
 * [Coingecko, Storj markets](https://www.coingecko.com/en/coins/storj#markets) - Exchanges support STORJ token
 * Storj Node operator payouts, supported chains:
- * Ethereum: STORJ ERC-20 token (default)
- * [ZkSync](https://storj-labs.gitbook.io/node/dependencies/storage-node-operator-payout-information/zk-sync-opt-in-for-snos)
- * [Polygon](https://forum.storj.io/t/jan-14-2022-payouts-for-the-month-of-december-are-now-complete-and-polygon-announcement/16814)
+  * Ethereum: STORJ ERC-20 token (default)
+  * [ZkSync](https://storj-labs.gitbook.io/node/dependencies/storage-node-operator-payout-information/zk-sync-opt-in-for-snos)
+  * [Polygon](https://forum.storj.io/t/jan-14-2022-payouts-for-the-month-of-december-are-now-complete-and-polygon-announcement/16814)
 
 # Contribution
 
