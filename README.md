@@ -60,6 +60,7 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 * [Filebase](https://filebase.com/) - S3 compatible Object Storage. One of the supported storage backend is Storj ([docs](https://docs.filebase.com/what-is-filebase/our-ecosystem/storage-networks/storj#how-do-i-store-data-on-storj-through-filebase))
 * [Opensea](https://opensea.io/) -- NFT marketplace. Supports hosting NFT resources on Storj ([howto](https://docs.storj.io/dcs/how-tos/nft-storage))
 * [Pixelexperience](https://download.pixelexperience.org/) - Android ROMS are [distributed with the help of Storj](https://www.storj.io/blog/pixelexperience-scales-up-software-distribution-with-storj-dcs)
+* [media.network](https://docs.media.network/storj-about/) - Media Network is a privacy-first and community-governed CDN.
 
 ## Tokeneconomics
 
