@@ -25,7 +25,7 @@ Note: this list contains only projects which are compatible with the current (v3
 * [Storj Mobile](https://play.google.com/store/apps/details?id=com.storj_mobile) (beta) - Android application to access Storj ([forum post](https://forum.storj.io/t/storj-mobile-beta-for-android/15578))
 * [rclone](https://rclone.org/tardigrade/) - Tool to sync your files to cloud storage including Storj 
 * [restic]() - Restic is a modern backup program. Supports Storj via the rclone . [howto](https://docs.storj.io/dcs/how-tos/backup-with-restic), [docs](https://restic.readthedocs.io/en/stable/030_preparing_a_new_repo.html#other-services-via-rclone)
-* [Stor Photo Galery Uploader (Early Access)](https://play.google.com/store/apps/details?id=io.storj.photogalleryuploader) - Upload you photos to Storj DCS and show them within a nice gallery
+* [Storj Photo Galery Uploader (Early Access)](https://play.google.com/store/apps/details?id=io.storj.photogalleryuploader) - Upload you photos to Storj DCS and show them within a nice gallery
 * [FileZilla](https://docs.storj.io/dcs/how-tos/set-up-filezilla-for-decentralized-file-transfer) - New protocol for Storj is being added to FileZilla. 
 * [NextCloud](https://apps.nextcloud.com/apps/storj) - Adds Storj external storage to NextCloud 
 * [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online ([howto](https://docs.storj.io/dcs/how-tos/backup-with-duplicati))
@@ -67,7 +67,7 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 STORJ is an ERC-20 utility token for the Storj network.
 
 * [STORJ on Coinmarketcap](https://coinmarketcap.com/currencies/storj/)
-* Latest STORJ Token Balance & Flows Report: [Q4 2021](https://www.storj.io/blog/storj-token-balances-and-flows-report-q4-2021)
+* [Latest STORJ Token Balance & Flows Report](https://www.storj.io/category/token-report)
 * [Coingecko, Storj markets](https://www.coingecko.com/en/coins/storj#markets) - Exchanges support STORJ token
 * Storj Node operator payouts, supported chains:
   * Ethereum: STORJ ERC-20 token (default)
