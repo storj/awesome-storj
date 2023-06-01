@@ -31,6 +31,7 @@ Note: this list contains only projects which are compatible with the current (v3
 * [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online ([howto](https://docs.storj.io/dcs/how-tos/backup-with-duplicati))
 * [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 * [Terraform provider](http://github.com/mjpitz/terraform-provider-storj) - Terraform provider for Storj
+* [quickshare](https://github.com/TopperDEL/Quickshare) - dotnet tool to quickly upload files to Storj from Windows, Linux and Mac
 
 # Client Libraries & language bindings
 
