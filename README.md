@@ -41,6 +41,7 @@ Storj can be used via the native interface (uplink CLI and uplink libraries) or 
 
 * [uplink-python](https://github.com/storj-thirdparty/uplink-python) - Python bindings for libuplink
 * [uplink-php](https://github.com/storj-thirdparty/uplink-php/pull/20#pullrequestreview-818737763) - PHP binding for libuplink
+* [uplink-ruby](https://forum.storj.io/t/uplink-for-ruby) - Ruby gem ([forum post](https://forum.storj.io/t/uplink-for-ruby/22929?u=bre])
 * [uplink-rust](https://github.com/storj-thirdparty/uplink-rust) - Storj Uplink Rust bindings for the Rust programming language.
 * [TopperDEL/uplink.net](https://github.com/TopperDEL/uplink.net)  A .Net-wrapper to connect to the storj v3 network.
 
