@@ -25,12 +25,13 @@ Note: this list contains only projects which are compatible with the current (v3
 * [Storj Mobile](https://play.google.com/store/apps/details?id=com.storj_mobile) (beta) - Android application to access Storj ([forum post](https://forum.storj.io/t/storj-mobile-beta-for-android/15578))
 * [rclone](https://rclone.org/tardigrade/) - Tool to sync your files to cloud storage including Storj 
 * [restic]() - Restic is a modern backup program. Supports Storj via the rclone . [howto](https://docs.storj.io/dcs/how-tos/backup-with-restic), [docs](https://restic.readthedocs.io/en/stable/030_preparing_a_new_repo.html#other-services-via-rclone)
-* [Stor Photo Galery Uploader (Early Access)](https://play.google.com/store/apps/details?id=io.storj.photogalleryuploader) - Upload you photos to Storj DCS and show them within a nice gallery
+* [Storj Photo Gallery Uploader (Early Access)](https://play.google.com/store/apps/details?id=io.storj.photogalleryuploader) - Upload you photos to Storj DCS and show them within a nice gallery
 * [FileZilla](https://docs.storj.io/dcs/how-tos/set-up-filezilla-for-decentralized-file-transfer) - New protocol for Storj is being added to FileZilla. 
 * [NextCloud](https://apps.nextcloud.com/apps/storj) - Adds Storj external storage to NextCloud 
 * [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online ([howto](https://docs.storj.io/dcs/how-tos/backup-with-duplicati))
 * [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 * [Terraform provider](http://github.com/mjpitz/terraform-provider-storj) - Terraform provider for Storj
+* [quickshare](https://github.com/TopperDEL/Quickshare) - dotnet tool to quickly upload files to Storj from Windows, Linux and Mac
 
 # Client Libraries & language bindings
 
