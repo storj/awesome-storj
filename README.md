@@ -25,12 +25,14 @@ Note: this list contains only projects which are compatible with the current (v3
 * [Storj Mobile](https://play.google.com/store/apps/details?id=com.storj_mobile) (beta) - Android application to access Storj ([forum post](https://forum.storj.io/t/storj-mobile-beta-for-android/15578))
 * [rclone](https://rclone.org/tardigrade/) - Tool to sync your files to cloud storage including Storj 
 * [restic]() - Restic is a modern backup program. Supports Storj via the rclone . [howto](https://docs.storj.io/dcs/how-tos/backup-with-restic), [docs](https://restic.readthedocs.io/en/stable/030_preparing_a_new_repo.html#other-services-via-rclone)
-* [Stor Photo Galery Uploader (Early Access)](https://play.google.com/store/apps/details?id=io.storj.photogalleryuploader) - Upload you photos to Storj DCS and show them within a nice gallery
+* [Storj Photo Gallery Uploader (Early Access)](https://play.google.com/store/apps/details?id=io.storj.photogalleryuploader) - Upload you photos to Storj DCS and show them within a nice gallery
 * [FileZilla](https://docs.storj.io/dcs/how-tos/set-up-filezilla-for-decentralized-file-transfer) - New protocol for Storj is being added to FileZilla. 
 * [NextCloud](https://apps.nextcloud.com/apps/storj) - Adds Storj external storage to NextCloud 
 * [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online ([howto](https://docs.storj.io/dcs/how-tos/backup-with-duplicati))
 * [transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
 * [Storj Cloud UI](https://github.com/FazioNico/storj-cloud-ui) - Cross platform UI application that allows users to upload, download and manage files from the @storj network
+* [Terraform provider](http://github.com/mjpitz/terraform-provider-storj) - Terraform provider for Storj
+* [quickshare](https://github.com/TopperDEL/Quickshare) - dotnet tool to quickly upload files to Storj from Windows, Linux and Mac
 
 # Client Libraries & language bindings
 
@@ -41,6 +43,7 @@ Storj can be used via the native interface (uplink CLI and uplink libraries) or 
 
 * [uplink-python](https://github.com/storj-thirdparty/uplink-python) - Python bindings for libuplink
 * [uplink-php](https://github.com/storj-thirdparty/uplink-php/pull/20#pullrequestreview-818737763) - PHP binding for libuplink
+* [uplink-ruby](https://forum.storj.io/t/uplink-for-ruby) - Ruby gem ([forum post](https://forum.storj.io/t/uplink-for-ruby/22929?u=bre))
 * [uplink-rust](https://github.com/storj-thirdparty/uplink-rust) - Storj Uplink Rust bindings for the Rust programming language.
 * [TopperDEL/uplink.net](https://github.com/TopperDEL/uplink.net)  A .Net-wrapper to connect to the storj v3 network.
 
@@ -54,22 +57,25 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 - [Grafana dashboard](https://gist.github.com/littleskunk/b16567743626d9dd33454463a2e8a5d4) - Grafana dashboard for the native Prometheus endpoint of storagenodes ([forum post](https://forum.storj.io/t/tech-preview-email-alerts-with-grafana-and-prometheus/16156/8))
 - [Grafana dashboard](https://github.com/anclrii/Storj-Exporter-dashboard) for external [Prometheus exporter](https://github.com/anclrii/Storj-Exporter)
 - [Earnings calculator](https://github.com/ReneSmeekes/storj_earnings) - Python script prints out estimated earnings based on local data of Storagenode ([forum post](https://forum.storj.io/t/earnings-calculator-update-2022-01-13-v11-0-0-detailed-earnings-info-and-health-status-of-your-node-including-vetting-progress/1794/432))
+- [Storj deployment](https://github.com/tomaae/storj-deployment) - Ready to use docker definitions (including Grafana, prometheus exporters, etc...)
 
 ## Services based on / with support of Storj 
 
 * [Fastly](https://fastly.com) - Content delivery network with Storj support ([docs](https://docs.fastly.com/en/guides/storj-dcs-object-storage))
-* [Filebase](https://filebase.com/) - S3 compatible Object Storage. One of the supported storage backend is Storj ([docs](https://docs.filebase.com/what-is-filebase/our-ecosystem/storage-networks/storj#how-do-i-store-data-on-storj-through-filebase))
 * [Opensea](https://opensea.io/) -- NFT marketplace. Supports hosting NFT resources on Storj ([howto](https://docs.storj.io/dcs/how-tos/nft-storage))
 * [Pixelexperience](https://download.pixelexperience.org/) - Android ROMS are [distributed with the help of Storj](https://www.storj.io/blog/pixelexperience-scales-up-software-distribution-with-storj-dcs)
+* [media.network](https://docs.media.network/storj-about/) - Media Network is a privacy-first and community-governed CDN.
 
 ## Tokeneconomics
 
 STORJ is an ERC-20 utility token for the Storj network.
 
 * [STORJ on Coinmarketcap](https://coinmarketcap.com/currencies/storj/)
-* Latest STORJ Token Balance & Flows Report: [Q3 2021](https://storj.io/blog/storj-token-balances-flows-report-q3-2021) 
-* Supported on biggest centralized exchanges like [Binance](https://www.binance.com/en), [Kraken](https://www.kraken.com/) and DEX like  [Uniswap](https://app.uniswap.org/#/swap)
-* Supported L2: [ZkSync](https://storj-labs.gitbook.io/node/dependencies/storage-node-operator-payout-information/zk-sync-opt-in-for-snos)
+* [Latest STORJ Token Balance & Flows Report](https://www.storj.io/category/token-report)
+* [Coingecko, Storj markets](https://www.coingecko.com/en/coins/storj#markets) - Exchanges support STORJ token
+* Storj Node operator payouts, supported chains:
+  * Ethereum: STORJ ERC-20 token (default)
+  * [ZkSync](https://storj-labs.gitbook.io/node/dependencies/storage-node-operator-payout-information/zk-sync-opt-in-for-snos)
 
 # Contribution
 
