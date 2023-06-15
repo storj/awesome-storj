@@ -33,6 +33,7 @@ Note: this list contains only projects which are compatible with the current (v3
 * [Storj Cloud UI](https://github.com/FazioNico/storj-cloud-ui) - Cross platform UI application that allows users to upload, download and manage files from the @storj network
 * [Terraform provider](http://github.com/mjpitz/terraform-provider-storj) - Terraform provider for Storj
 * [quickshare](https://github.com/TopperDEL/Quickshare) - dotnet tool to quickly upload files to Storj from Windows, Linux and Mac
+* [ArqBackup](https://www.arqbackup.com) - Arq® is backup software for your Mac or Windows PC. ([blog post](https://www.arqbackup.com/blog/backup-to-storj-with-arq/))
 
 # Client Libraries & language bindings
 
