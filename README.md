@@ -70,7 +70,7 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 STORJ is an ERC-20 utility token for the Storj network.
 
 * [STORJ on Coinmarketcap](https://coinmarketcap.com/currencies/storj/)
-* Latest STORJ Token Balance & Flows Report: [Q4 2021](https://www.storj.io/blog/storj-token-balances-and-flows-report-q4-2021)
+* [Latest STORJ Token Balance & Flows Report](https://www.storj.io/category/token-report)
 * [Coingecko, Storj markets](https://www.coingecko.com/en/coins/storj#markets) - Exchanges support STORJ token
 * Storj Node operator payouts, supported chains:
   * Ethereum: STORJ ERC-20 token (default)
