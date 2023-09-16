@@ -59,6 +59,8 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 - [Grafana dashboard](https://github.com/anclrii/Storj-Exporter-dashboard) for external [Prometheus exporter](https://github.com/anclrii/Storj-Exporter)
 - [Earnings calculator](https://github.com/ReneSmeekes/storj_earnings) - Python script prints out estimated earnings based on local data of Storagenode ([forum post](https://forum.storj.io/t/earnings-calculator-update-2022-01-13-v11-0-0-detailed-earnings-info-and-health-status-of-your-node-including-vetting-progress/1794/432))
 - [Storj deployment](https://github.com/tomaae/storj-deployment) - Ready to use docker definitions (including Grafana, prometheus exporters, etc...)
+- [Success Rate Tool](https://github.com/ReneSmeekes/storj_success_rate) - Script parsing the log and printing out success rate (Linux/OSX version) ([forum thread](https://forum.storj.io/t/success-rate-script-now-updated-for-new-delete-terminology-since-v1-29-3/5114))
+- [Success Rate Tool](https://github.com/AlexeyALeonov/success_rate) - Similar script for Windows Power Shell
 
 ## Services based on / with support of Storj 
 
