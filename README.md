@@ -12,7 +12,8 @@ Note: this list contains only projects which are compatible with the current (v3
 - [Documentation](https://docs.storj.io/dcs/) - Entrypoint to the official documentation
 - [Community support / forum](forum.storj.io/) - Community and support forum
 - [Storj Status](https://status.storj.io/) - Status of the Storj network
-- [Usage statistic dashboard](https://storjstats.info/) - Statistics about the full Storj network ([raw data](https://stats.storjshare.io/))
+- [Usage statistic dashboard](https://storjstats.info/) - Statistics about the full Storj network, based on data provided by Storj Labs ([raw data](https://stats.storjshare.io/))
+- [Node statistic dashboard](https://storjnet.info/) - Node distribution statistic (source: [3bl3gamer/storjnet-info](https://github.com/3bl3gamer/storjnet-info))
 - [Roadmap](https://github.com/storj/roadmap/) - Official roadmap of Storj development
 - [Whitepaper v3](https://storj.io/storj.pdf) - Actual version of Storj white-paper 
 - [FAQ](https://docs.storj.io/dcs/support/faqs) - Frequently Asked questions and answers 
