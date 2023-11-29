@@ -35,7 +35,7 @@ Note: this list contains only projects which are compatible with the current (v3
 * [Terraform provider](http://github.com/mjpitz/terraform-provider-storj) - Terraform provider for Storj
 * [quickshare](https://github.com/TopperDEL/Quickshare) - dotnet tool to quickly upload files to Storj from Windows, Linux and Mac
 * [ArqBackup](https://www.arqbackup.com) - Arq® is backup software for your Mac or Windows PC. ([blog post](https://www.arqbackup.com/blog/backup-to-storj-with-arq/))
-* [WinSync for Storj](https://github.com/TonyTosol/WinSync-for-storj-comunity-made-) - file sync software for Windows with native Storj Support
+* [WinSync for Storj](https://github.com/TonyTosol/WinSync-for-storj-comunity-made-) - file sync software for Windows with native Storj Support ([forum post](https://forum.storj.io/t/winsync-for-storj-native-storj-sync-app-for-windows/24499?u=alexey))
 
 # Client Libraries & language bindings
 
