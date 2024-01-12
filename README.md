@@ -63,6 +63,7 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 - [Storj deployment](https://github.com/tomaae/storj-deployment) - Ready to use docker definitions (including Grafana, prometheus exporters, etc...)
 - [Success Rate Tool](https://github.com/ReneSmeekes/storj_success_rate) - Script parsing the log and printing out success rate (Linux/OSX version) ([forum thread](https://forum.storj.io/t/success-rate-script-now-updated-for-new-delete-terminology-since-v1-29-3/5114))
 - [Success Rate Tool](https://github.com/AlexeyALeonov/success_rate) - Similar script for Windows Power Shell
+- [Stored Data checker](https://github.com/elek/storagenode-checksum) - Check if data stored on your Storagenode is all good
 
 ## Services based on / with support of Storj 
 
