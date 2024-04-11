@@ -1,4 +1,8 @@
-<img src="https://assets.website-files.com/602eda09fc78afc76e9706b6/60917840ebdae99bf420b0a3_dcs.svg" width="140"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/storj/.github/main/assets/storj-logo-full-white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/storj/.github/main/assets/storj-logo-full-color.png">
+  <img alt="Storj logo" src="https://raw.githubusercontent.com/storj/.github/main/assets/storj-logo-full-color.png" width="140">
+</picture>
 
 # Awesome Storj [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
