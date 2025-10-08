@@ -68,6 +68,7 @@ Farmers store data on the Storj network in exchange for STORJ tokens based on co
 - [Success Rate Tool](https://github.com/ReneSmeekes/storj_success_rate) - Script parsing the log and printing out success rate (Linux/OSX version) ([forum thread](https://forum.storj.io/t/success-rate-script-now-updated-for-new-delete-terminology-since-v1-29-3/5114))
 - [Success Rate Tool](https://github.com/AlexeyALeonov/success_rate) - Similar script for Windows Power Shell
 - [Stored Data checker](https://github.com/elek/storagenode-checksum) - Check if data stored on your Storagenode is all good
+- [Unofficial SNO web dashboard](https://github.com/arrogantrabbit/ai-storj-node-web-monitor/) - Another AI-generated web dashboard ([forum post](https://forum.storj.io/t/another-ai-generated-web-dashboard/30585))
 
 ## Services based on / with support of Storj 
 
